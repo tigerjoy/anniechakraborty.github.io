@@ -34,7 +34,7 @@ body h1{
     transition: ease-in 500ms;
 }
 @media (max-width : 760px) {
-  div #contentIntro{
-        font-size: 2rem;
+  #contentIntro div{
+        font-size: 1.4rem;
     }
 }
